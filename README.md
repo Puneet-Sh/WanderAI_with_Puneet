@@ -26,17 +26,17 @@ Built for the **Hybrid AI Challenge**, WanderAI integrates:
 ## 🧩 System Flow
 
 User Query
-↓
+->
 OpenAI Embedding
-↓
+->
 Pinecone Semantic Search
-↓
+->
 Neo4j Graph Context Retrieval
-↓
+->
 Prompt Assembly
-↓
+->
 OpenAI Chat Model
-↓
+->
 AI Response (Itinerary / Insight)
 
 ---
