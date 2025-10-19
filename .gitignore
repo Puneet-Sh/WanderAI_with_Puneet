@@ -1,0 +1,24 @@
+
+# Virtual environment
+hc_venv/
+venv/
+.env/
+
+# Cache files
+__pycache__/
+*.pyc
+embedding_cache.json
+
+# API keys and config
+config.py
+*.env
+
+# OS & IDE junk
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Local test or temp files
+test_*.py
+tmp/
